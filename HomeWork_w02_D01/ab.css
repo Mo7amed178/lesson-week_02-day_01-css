@@ -1,0 +1,55 @@
+
+nav li {
+    padding : 0 10px;
+    padding-bottom: 20 px;
+    display : inline-block;
+    text-align: center;
+    
+}
+
+
+nav {
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    
+}
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.logo {
+    float: right;
+    width: 450px;
+    height: 450px; 
+    padding-right: 300px;
+    /*border: 1px solid black; */
+    
+}
+
+
+h2 {
+    padding-left: 300px;
+    
+}
+
+p {
+    padding-left: 300px;
+    font-size: 30px;
+}
+
+
+footer ul li {
+    padding : 0 10px;
+    padding-bottom: 20 px;
+    display : inline-block;
+    text-align: center;
+    color: black;
+
+}
+
+li a {
+    color: black;
+}

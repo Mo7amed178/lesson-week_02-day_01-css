@@ -1,0 +1,44 @@
+nav li {
+    padding : 0 10px;
+    padding-bottom: 20 px;
+    display : inline-block;
+    text-align: center;
+    
+}
+
+
+nav {
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    
+}
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    padding-left: 300px;
+    
+}
+
+p {
+    padding-left: 300px;
+    padding-right: 300px;
+    font-size: 20px;
+
+}
+
+.div {
+    padding-left: 300px;
+}
+
+img {
+    padding-left: 450px;
+} 
+
+.div2 {
+    padding-left: 300px;
+}
